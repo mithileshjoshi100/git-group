@@ -1,5 +1,6 @@
 h1 {
     margin: auto;
+    background-color: aquamarine;
 }
 
 body {
@@ -34,7 +35,7 @@ body {
 }
 
 .reset-btn {
-    background-color: aqua;
+    background-color:antiquewhite;
     padding: 10px;
     border: 3px solid black;
 }
