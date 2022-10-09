@@ -179,7 +179,7 @@ function check() {
     }
 
     if (b3.innerHTML != blank && areEqual(b3.innerHTML, b5.innerHTML, b7.innerHTML)) {
-        if (b3.innerHTML == p2) {
+        if (b3.innerHTML == p1) {
             console.log('Player 1 Wins');
             alert(`Player ${p1} Wins`);
             reset();
